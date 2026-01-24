@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Computer Science (AI) Graduate
 ------------------------------
 
-I’m a Computer Science graduate with a strong interest in specialising in Artificial Intelligence. I enjoy building practical projects that apply machine learning to real-world problems, like AI-powered recommendation systems. Beyond AI, I actively explore and build in other areas of technology, such as backend development, NLP, and more, to strengthen my overall engineering skill set.
+I’m a Computer Science (Artificial Intelligence) graduate with a strong interest in specialising in Artificial Intelligence. I enjoy building practical projects that apply machine learning to real-world problems, like AI-powered recommendation systems. Beyond AI, I actively explore and build in other areas of technology, such as backend development, NLP, and more, to strengthen my overall engineering skill set.
 
 * 🌍  I'm based in United Kingdom
 * ✉️  You can contact me at [broy950@gmail.com](mailto:broy950@gmail.com)
