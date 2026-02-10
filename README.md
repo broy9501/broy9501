@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋My Name Is Bishal Roy</h1>
+<h1 align="center">Hey 👋What's Up?</h1>
 
 ###
 
@@ -69,11 +69,7 @@
   <img src="https://streak-stats.demolab.com?user=broy9501&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
-
-
 ###
-
-<br clear="both">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/broy9501/broy9501/output/pacman-contribution-graph-dark.svg">
