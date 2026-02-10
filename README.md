@@ -71,8 +71,6 @@
 
 ###
 
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/broy9501/broy9501/output/pacman-contribution-graph-dark.svg?sanitize=true">
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/broy9501/broy9501/output/pacman-contribution-graph.svg?sanitize=true">
-<img alt="pacman contribution graph" src="https://raw.githubusercontent.com/broy9501/broy9501/output/pacman-contribution-graph.svg?sanitize=true">
+<img src="https://raw.githubusercontent.com/broy9501/broy9501/output/snake.svg" alt="Snake animation" />
 
 ###
