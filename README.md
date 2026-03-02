@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">💻 Porfolio: https://broy9501.github.io/Portfolio-Website/</p>
+<p align="left">💻 Porfolio: https://bishalroy.online/</p>
 
 ###
 
